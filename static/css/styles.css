@@ -30,7 +30,7 @@ div.band .columns {
 }
 
 header.band {
-	background-image:url(../img/background.jpg);
+	background-image:url(../img/background-tall.jpg);
 	background-size: 100%;
 
 	background: #4b371f;
@@ -128,7 +128,7 @@ footer {
 	}
 
 	header.band {
-		background-image:url(../img/background.jpg);
+		background-image:url(../img/background-tall.jpg);
 		background-size: 100%;
 	}
 	
